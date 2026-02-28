@@ -1,6 +1,7 @@
 # SuddenMathProblem
 
-`SuddenMathProblem`은 Paper 서버에서 동작하는 플러그인입니다.
+`SuddenMathProblem`은 Paper 서버에서 동작하는 플러그인입니다. 
+보상을 처벌로 변경할 수도 있다.
 
 ## 명령어
 - `/mathproblem` : op권한을 가진 플레이어가 강제로 문제를 제시할 수 있습니다.
