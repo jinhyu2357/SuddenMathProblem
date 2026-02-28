@@ -1,0 +1,4 @@
+name: SuddenMathProblem
+version: '1.0'
+main: org.example.jinhhyu.suddenMathProblem.SuddenMathProblem
+api-version: '1.21'
